@@ -133,8 +133,11 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 **Author**: janshirani D
-**github profile link**:https://github.com/jan200509/CRACKING-THE-MARKET-CODE-WITHAI-DRIVEN-STOCK-PRICE-PREDICTION
+
+**Github profile link**:https://github.com/jan200509/CRACKING-THE-MARKET-CODE-WITHAI-DRIVEN-STOCK-PRICE-PREDICTION
+
 **Institution**: Sri Ramanujar Engineering College  
+
 **Department**: Computer Science and Engineering  
 
 Happy forecasting! 🚀📈
